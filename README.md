@@ -35,12 +35,12 @@ Please follow the steps below:
     - Click the **Download Standalone** button (2) if you want to install the version that doesn't include Overwolf.
     - If your OS isn't listed or supported, or you want to view other versions, lick the **More Download Options** button (3) to view all available versions of the app.
     - **NOTE**: The download page tries to automatically detect your OS and will show you the recommended version for your system, but you can still choose to download any version you want.
-![Curseforge Download Page](./images/website01.png)
+![Curseforge Download Page](https://github.com/modcommunity/how-to-download-install-curseforge-app/raw/main/images/website01.png)
 2. If you clicked additional options, you will be taken to a page that lists all available versions of the app. Select the operating system you are using which may show a drop-down menu with different options to download from.
     - For example:
         - Click the **Download for Linux** button (1) to download the Linux version of the app.
         - Click the **Download for macOS** button (2) to download the macOS version of the app.
-![Curseforge Download Page Additional Options](./images/website02.png)
+![Curseforge Download Page Additional Options](https://github.com/modcommunity/how-to-download-install-curseforge-app/raw/main/images/website02.png)
 4. Save the installer file to your computer.
     - For Windows, the file will be named something like `CurseForge-Setup.exe` by default.
     - On Linux, it will be either an AppImage or a `.deb` file, depending on the version you choose.
@@ -49,22 +49,22 @@ Please follow the steps below:
 ## Installing
 Now to install the Curseforge app. Simply run the installer file you downloaded by either **double-clicking it** or **right-clicking** and **selecting Open**.
 
-![Windows Explorer](./images/win_explorer01.png)
+![Windows Explorer](https://github.com/modcommunity/how-to-download-install-curseforge-app/raw/main/images/win_explorer01.png)
 
 This will open the installation wizard. Follow the steps below.
 
 1. Choose your preferred language for the installation process and click the **Next** button to proceed to the next step.
-![Curseforge Installation Wizard](./images/installer_step01.png)
+![Curseforge Installation Wizard](https://github.com/modcommunity/how-to-download-install-curseforge-app/raw/main/images/installer_step01.png)
 2. Choose the installation location for the app (1).
     - In most cases, you can leave this as the default location.
     - This is not where your mods will be stored, but rather where the app itself will be installed. The app will manage your mods in a separate location.
 3. Make sure to read and agree to the terms and conditions (2) by **checking the box**.
 4. Click the **Next** button (3) to start the installation process.
-![Curseforge Installation Wizard](./images/installer_step02.png)
+![Curseforge Installation Wizard](https://github.com/modcommunity/how-to-download-install-curseforge-app/raw/main/images/installer_step02.png)
 
 The installation process may take a few minutes to complete. Once it's done, you can click the **Finish** button to exit the installer and launch the Curseforge app.
 
-![Curseforge Installation Wizard](./images/installer_progress.png)
+![Curseforge Installation Wizard](https://github.com/modcommunity/how-to-download-install-curseforge-app/raw/main/images/installer_progress.png)
 
 **NOTE**: While installing Curseforge, it will ask you if you'd like to install additional software. This is optional and not required to use the Curseforge app, so you can choose to either install it or skip it by clicking the **No thanks** button. Most users choose to **skip it** to avoid installing unnecessary software on their computer.
 
@@ -91,7 +91,7 @@ On Arch or CachyOS, I was able to install Curseforge with the AUR package reposi
 yay -S curseforge
 ```
 
-![Curseforge Yay Download](./images/download_cachyos.png)
+![Curseforge Yay Download](https://github.com/modcommunity/how-to-download-install-curseforge-app/raw/main/images/download_cachyos.png)
 
 ### Troubleshooting
 #### Curseforge App Not Launching
@@ -124,7 +124,7 @@ By now, you should have successfully downloaded and installed the Curseforge app
 
 In the next article, we will be showing you the basics of the Curseforge app and how to use it to manage your mods and modpacks. Stay tuned!
 
-Guides we create are always open to edits and improvements, so if you have any suggestions or notice any issues, feel free to contribute by creating a [pull request](https://github.com/modcommunity/how-to-download-and-install-vortex/pulls) on our GitHub repository!
+Guides we create are always open to edits and improvements, so if you have any suggestions or notice any issues, feel free to contribute by creating a [pull request](https://github.com/modcommunity/how-to-download-install-curseforge-app/pulls) on our GitHub repository!
 
 Please join our [Discord server](https://discord.gg/moddingcommunity) if you have any questions or need help with anything related to modding or our guides!
 
